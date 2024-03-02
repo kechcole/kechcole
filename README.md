@@ -14,6 +14,10 @@
 
 - 👯 I'm looking to collaborate on web mapping and data science projects - Applications in Agriculture, Urban Planning, Demography , Climate Change Mitigation and Humanintarian fields.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kechcole)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **kechcole/kechcole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
