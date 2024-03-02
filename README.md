@@ -1,6 +1,19 @@
-### Hi there 👋, Collins
-#### Spatial Data Science
 ![Spatial Data Science](https://github.com/kechcole/kechcole/blob/main/github-pic.jpeg)
+
+# Hi there 👋, I'm Collins
+
+## Skills and Experience
+⌨️ Python , R 
+🖥️ JS, HTML, CSS
+🛰️ Remote Sensing and GIS
+🌐 Leaflet, Geo-Django, Geoserver
+☁️ AWS, Microsoft Power Apps
+📈 Dasboards - Power BI, Tableau
+🗃️ PostgreSQL RDBM, No SQL
+📱 QGIS, Arc GIS Pro 
+
+
+### Spatial Data Science
 
 I am Collins, a highly skilled Geospatial Developer with a proven track record of providing GIS solutions and solving problems through technology. My knack for learning many languages and frameworks has resulted to significant increase in efficiency in tasks and workflows. 
 
@@ -9,7 +22,7 @@ Skills: Python / JavaScript / R / Django / Leaflet / HTML / CSS / Geoserver
 - 🔭 I’m currently working on Django projects such as User Management and Authentication, REST API Development, Geo-Django App. 
 - 🌱 I’m currently learning AWS Cloud Computing, Tableau and React 
 - 👯 I’m looking to collaborate on web mapping and data science projects with interests in Agriculture, Urban Planning, Demography , Climate Change Mitigation and Humanintarian fields. 
-- 💬 Ask me about Web GIS , Remote Sensing, Machine Learning, AI, Dashboards, FOSS4G 
+- 💬 Ask me about Web GIS🗺️ 🗾 , Remote Sensing🛰️, Machine Learning, AI, Dashboards, FOSS4G 
 - 😄 Pronouns: He/him 
 - ⚡ Fun fact: Playing with Linux. 
 
@@ -40,4 +53,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+✅
+✔️
+
+
+EMOJI LINK - https://emojipedia.org/
+
 -->
