@@ -33,7 +33,7 @@ A highly skilled Geospatial Developer with a proven track record of providing GI
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kechcole&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/kechcole)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/kechcole)  -->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kechcole)  
 
