@@ -13,7 +13,7 @@ A highly skilled Geospatial Developer with a proven track record of providing GI
 - 🗃️ PostgreSQL RDBM, No SQL
 - 📱 QGIS, Arc GIS Pro 
 
-
+## Projects
 - 🔭 I’m currently working on Django projects such as User Management and Authentication, REST API Development, Geo-Django App. 
 - 🌱 I’m currently learning AWS Cloud Computing, Tableau and React 
 - 👯 I’m looking to collaborate on web mapping and data science projects with interests in Agriculture, Urban Planning, Demography , Climate Change Mitigation and Humanintarian fields. 
