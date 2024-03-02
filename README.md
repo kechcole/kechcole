@@ -3,14 +3,14 @@
 # Hi there 👋, I'm Collins
 
 ## Skills and Experience
-⌨️ Python , R 
-🖥️ JS, HTML, CSS
-🛰️ Remote Sensing and GIS
-🌐 Leaflet, Geo-Django, Geoserver
-☁️ AWS, Microsoft Power Apps
-📈 Dasboards - Power BI, Tableau
-🗃️ PostgreSQL RDBM, No SQL
-📱 QGIS, Arc GIS Pro 
+- ⌨️ Python , R 
+- 🖥️ JS, HTML, CSS
+- 🛰️ Remote Sensing and GIS
+- 🌐 Leaflet, Geo-Django, Geoserver
+- ☁️ AWS, Microsoft Power Apps
+- 📈 Dasboards - Power BI, Tableau
+- 🗃️ PostgreSQL RDBM, No SQL
+- 📱 QGIS, Arc GIS Pro 
 
 
 ### Spatial Data Science
