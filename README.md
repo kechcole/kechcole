@@ -1,6 +1,7 @@
 ![Spatial Data Science](https://github.com/kechcole/kechcole/blob/main/github-pic.jpeg)
 
 # Hi there 👋, I'm Collins
+A highly skilled Geospatial Developer with a proven track record of providing GIS solutions and solving problems through technology. My knack for learning many languages and frameworks has resulted to significant increase in efficiency in tasks and workflows.
 
 ## Skills and Experience
 - ⌨️ Python , R 
@@ -12,12 +13,6 @@
 - 🗃️ PostgreSQL RDBM, No SQL
 - 📱 QGIS, Arc GIS Pro 
 
-
-### Spatial Data Science
-
-I am Collins, a highly skilled Geospatial Developer with a proven track record of providing GIS solutions and solving problems through technology. My knack for learning many languages and frameworks has resulted to significant increase in efficiency in tasks and workflows. 
-
-Skills: Python / JavaScript / R / Django / Leaflet / HTML / CSS / Geoserver
 
 - 🔭 I’m currently working on Django projects such as User Management and Authentication, REST API Development, Geo-Django App. 
 - 🌱 I’m currently learning AWS Cloud Computing, Tableau and React 
