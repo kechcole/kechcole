@@ -1,6 +1,6 @@
 ### Hi there 👋, Collins
 #### Spatial Data Science
-![Spatial Data Science]([https://th.bing.com/th/id/OIP.2k5e2KouVKaSO6tKPN475AHaDy?w=303&h=180&c=7&r=0&o=5&pid=1.7](https://github.com/kechcole/kechcole/blob/main/github-pic.jpeg))
+![Spatial Data Science](https://github.com/kechcole/kechcole/blob/main/github-pic.jpeg)
 
 I am Collins, a highly skilled Geospatial Developer with a proven track record of providing GIS solutions and solving problems through technology. My knack for learning many languages and frameworks has resulted to significant increase in efficiency in tasks and workflows. 
 
