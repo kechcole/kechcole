@@ -9,13 +9,13 @@ A highly skilled Geospatial Developer with a proven track record of providing GI
 - 🛰️ Remote Sensing and GIS
 - 🌐 Leaflet, Geo-Django, Geoserver
 - ☁️ AWS, Microsoft Power Apps
-- 📈 Dasboards - Power BI, Tableau
+- 📈 Dashboards - Power BI, Tableau
 - 🗃️ PostgreSQL RDBM, No SQL
 - 📱 QGIS, Arc GIS Pro
 - 🤖 Machine Learning and AI
 
 ## Projects
-- 🔭 I’m currently working on Django projects such as User Management and Authentication, REST API Development, Geo-Django App. 
+- 🔭 I’m currently working on Django projects such as Spatial Blogg app, REST API Development, Geo-Django App. 
 - 🌱 I’m currently learning AWS Cloud Computing, Tableau and React 
 - 👯 I’m looking to collaborate on web mapping and data science projects with interests in Agriculture, Urban Planning, Demography , Climate Change Mitigation and Humanintarian fields.
 
