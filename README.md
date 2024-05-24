@@ -1,4 +1,4 @@
-![Spatial Data Science]([https://github.com/kechcole/kechcole/blob/main/github-pic.jpeg](https://github.com/kechcole/Flow-Chart-Diagrams/blob/main/mystack2.png))
+![Spatial Data Science]((https://github.com/kechcole/Flow-Chart-Diagrams/blob/main/mystack2JPEG.jpg))
 
 # Hi there 👋, I'm Collins
 A highly skilled Geospatial Developer with a proven track record of providing GIS solutions and solving problems through technology. My knack for learning many languages and frameworks has resulted to significant increase in efficiency in tasks and workflows.
